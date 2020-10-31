@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nwssf1kL8hpxQ81/3vpwmfcqLnfcFa8iLbEXwIrbSxXsTcAI4YfaQCQPYWTZ6emipP+gaFsVzSWbBMTFSvJkCA==",
+  "dgSpecHash": "pF3Si+8T2z63Xy/pDCUcFHIslmxLQpmHWhfx9UqEJJ7k/dCUU00Q24C2arBhuBX0F8t9PURhfKhOYobtHekEPg==",
   "success": true,
   "projectFilePath": "C:\\Users\\William\\source\\repos\\DAWA-Mock\\src\\NN.Dawa.ConsoleApp\\NN.Dawa.ConsoleApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\William\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

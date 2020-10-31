@@ -1,0 +1,9 @@
+C:\Users\William\source\repos\DAWA-Mock\src\NN.Dawa.Lib\bin\Debug\netcoreapp3.1\NN.Dawa.Lib.deps.json
+C:\Users\William\source\repos\DAWA-Mock\src\NN.Dawa.Lib\bin\Debug\netcoreapp3.1\NN.Dawa.Lib.dll
+C:\Users\William\source\repos\DAWA-Mock\src\NN.Dawa.Lib\bin\Debug\netcoreapp3.1\NN.Dawa.Lib.pdb
+C:\Users\William\source\repos\DAWA-Mock\src\NN.Dawa.Lib\obj\Debug\netcoreapp3.1\NN.Dawa.Lib.csprojAssemblyReference.cache
+C:\Users\William\source\repos\DAWA-Mock\src\NN.Dawa.Lib\obj\Debug\netcoreapp3.1\NN.Dawa.Lib.AssemblyInfoInputs.cache
+C:\Users\William\source\repos\DAWA-Mock\src\NN.Dawa.Lib\obj\Debug\netcoreapp3.1\NN.Dawa.Lib.AssemblyInfo.cs
+C:\Users\William\source\repos\DAWA-Mock\src\NN.Dawa.Lib\obj\Debug\netcoreapp3.1\NN.Dawa.Lib.dll
+C:\Users\William\source\repos\DAWA-Mock\src\NN.Dawa.Lib\obj\Debug\netcoreapp3.1\NN.Dawa.Lib.pdb
+C:\Users\William\source\repos\DAWA-Mock\src\NN.Dawa.Lib\obj\Debug\netcoreapp3.1\NN.Dawa.Lib.csproj.CoreCompileInputs.cache

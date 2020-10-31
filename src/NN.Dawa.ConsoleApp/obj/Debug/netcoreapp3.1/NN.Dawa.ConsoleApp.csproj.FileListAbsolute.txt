@@ -1,0 +1,17 @@
+C:\Users\William\source\repos\DAWA-Mock\src\NN.Dawa.ConsoleApp\bin\Debug\netcoreapp3.1\NN.Dawa.ConsoleApp.exe
+C:\Users\William\source\repos\DAWA-Mock\src\NN.Dawa.ConsoleApp\bin\Debug\netcoreapp3.1\NN.Dawa.ConsoleApp.deps.json
+C:\Users\William\source\repos\DAWA-Mock\src\NN.Dawa.ConsoleApp\bin\Debug\netcoreapp3.1\NN.Dawa.ConsoleApp.runtimeconfig.json
+C:\Users\William\source\repos\DAWA-Mock\src\NN.Dawa.ConsoleApp\bin\Debug\netcoreapp3.1\NN.Dawa.ConsoleApp.runtimeconfig.dev.json
+C:\Users\William\source\repos\DAWA-Mock\src\NN.Dawa.ConsoleApp\bin\Debug\netcoreapp3.1\NN.Dawa.ConsoleApp.dll
+C:\Users\William\source\repos\DAWA-Mock\src\NN.Dawa.ConsoleApp\bin\Debug\netcoreapp3.1\NN.Dawa.ConsoleApp.pdb
+C:\Users\William\source\repos\DAWA-Mock\src\NN.Dawa.ConsoleApp\bin\Debug\netcoreapp3.1\NN.Dawa.Lib.dll
+C:\Users\William\source\repos\DAWA-Mock\src\NN.Dawa.ConsoleApp\bin\Debug\netcoreapp3.1\NN.Dawa.Lib.pdb
+C:\Users\William\source\repos\DAWA-Mock\src\NN.Dawa.ConsoleApp\obj\Debug\netcoreapp3.1\NN.Dawa.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\William\source\repos\DAWA-Mock\src\NN.Dawa.ConsoleApp\obj\Debug\netcoreapp3.1\NN.Dawa.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\William\source\repos\DAWA-Mock\src\NN.Dawa.ConsoleApp\obj\Debug\netcoreapp3.1\NN.Dawa.ConsoleApp.AssemblyInfo.cs
+C:\Users\William\source\repos\DAWA-Mock\src\NN.Dawa.ConsoleApp\obj\Debug\netcoreapp3.1\NN.Dawa.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\DAWA-Mock\src\NN.Dawa.ConsoleApp\obj\Debug\netcoreapp3.1\NN.Dawa.ConsoleApp.csproj.CopyComplete
+C:\Users\William\source\repos\DAWA-Mock\src\NN.Dawa.ConsoleApp\obj\Debug\netcoreapp3.1\NN.Dawa.ConsoleApp.dll
+C:\Users\William\source\repos\DAWA-Mock\src\NN.Dawa.ConsoleApp\obj\Debug\netcoreapp3.1\NN.Dawa.ConsoleApp.pdb
+C:\Users\William\source\repos\DAWA-Mock\src\NN.Dawa.ConsoleApp\obj\Debug\netcoreapp3.1\NN.Dawa.ConsoleApp.genruntimeconfig.cache
+C:\Users\William\source\repos\DAWA-Mock\src\NN.Dawa.ConsoleApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
